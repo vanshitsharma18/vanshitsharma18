@@ -8,6 +8,7 @@ Motivated DevOps Engineer at the beginning of my career, with hands-on experienc
 - [Project1]: Portfolio Website: A responsive personal website built with HTML, CSS, and JavaScript.
 - [Project 2]: Notification System: Real-Time Message Broadcasting System Using AWS Cloud Services
 - [Project 3]: Chatbot: A Python based Chatbot with Gemini Api Integration.
+- [Project 4]: Voting App: Deployment of Voting App using Docker and Kubernetes.
  
 ## 🏆📜Certificates
 - From Companies: @AWS community builders, @Linkedin , @Alibaba Cloud.
