@@ -20,4 +20,4 @@ Motivated DevOps Engineer at the beginning of my career, with hands-on experienc
 - Email: [Email address](vanshitsharma2006@gmail.com)
 
 ### 📊 GitHub Stats
-![](https://raw.githubusercontent.com/vanshitsharma18/github-stats-transparent/output/generated/overview.svg)
+
