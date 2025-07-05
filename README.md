@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Vanshit Sharma!!
 ## 🚀 About Me
-Motivated DevOps Engineer at the beginning of my career, with hands-on experience in version control using Git and GitHub, scripting in Python, and managing Linux-based systems. Familiar with CI/CD practices using Gitlab to automate builds and deployments. Passionate about cloud technologies, infrastructure automation, and improving software delivery processes. Always eager to learn new tools, enhance system reliability, and contribute to a collaborative DevOps culture.
+Hello! I'm Vanshit Sharma, a beginner DevOps Engineer with a strong foundation in version control (Git), containerization (Docker), CI/CD (GitLab), Linux system administration, and orchestration (Kubernetes). I'm passionate about learning and implementing modern DevOps workflows to improve software delivery.
 ## 🛠 Skills
 - **Languages:** [HTML, CSS, JavaScript, Python]
 - **Tools:** {Git, Gitlab , Kubernetes , Docker , ArgoCD}💻
