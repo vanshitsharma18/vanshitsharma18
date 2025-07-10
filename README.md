@@ -9,7 +9,7 @@ Hello! I'm Vanshit Sharma, a beginner DevOps Engineer with a strong foundation i
 - [Project 2]: Notification System: Real-Time Message Broadcasting System Using AWS Cloud Services
 - [Project 3]: Chatbot: A Python based Chatbot with Gemini Api Integration.
 - [Project 4]: Voting App: Deployment of Voting App using Docker and Kubernetes.
- 
+- [Project 5]: Todo-App Devops Deployment: A comprehensive full-stack todo application demonstrating modern DevOps practices with complete CI/CD pipeline, containerization,                 and Kubernetes orchestration.
 ## 🏆📜Certificates
 - From Companies: @AWS community builders, @Linkedin , @Alibaba Cloud.
 
