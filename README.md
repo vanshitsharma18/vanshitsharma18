@@ -3,7 +3,7 @@
 Hello! I'm Vanshit Sharma, a beginner DevOps Engineer with a strong foundation in version control (Git), containerization (Docker), CI/CD (GitLab), Linux system administration, and orchestration (Kubernetes). I'm passionate about learning and implementing modern DevOps workflows to improve software delivery.
 ## 🛠 Skills
 - **Languages:** [HTML, CSS, JavaScript, Python]
-- **Tools:** {Git, Gitlab , Kubernetes , Docker , ArgoCD}💻
+- **Tools:** {Git, Gitlab , Kubernetes , Docker , ArgoCD , Github Actions , Helm}💻
 ## 🔭 Current Projects
 - [Project1]: Portfolio Website: A responsive personal website built with HTML, CSS, and JavaScript.
 - [Project 2]: Notification System: Real-Time Message Broadcasting System Using AWS Cloud Services
