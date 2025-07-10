@@ -1,6 +1,14 @@
 # 👋 Hi there, I'm Vanshit Sharma!!
 ## 🚀 About Me
-Hello! I'm Vanshit Sharma, a beginner DevOps Engineer with a strong foundation in version control (Git), containerization (Docker), CI/CD (GitLab), Linux system administration, and orchestration (Kubernetes). I'm passionate about learning and implementing modern DevOps workflows to improve software delivery.
+Hi! I’m Vanshit Sharma, a curious and motivated developer with a strong interest in DevOps, Cloud Computing, and Automation. I thrive on learning new tools and building practical projects that bridge frontend experiences with powerful cloud backends.
+
+My recent projects include:
+
+📡 Message Broadcasting Web App using AWS Lambda, API Gateway, SNS, and DynamoDB, hosted on S3 — enabling real-time subscriber notifications.
+
+📦 Dockerized Portfolio Deployment using GitHub, Docker Hub, Kubernetes, and GitLab CI/CD.
+
+🌐 Frontend applications built with HTML, CSS, JavaScript, integrated with cloud services.
 ## 🛠 Skills
 - **Languages:** [HTML, CSS, JavaScript, Python]
 - **Tools:** {Git, Gitlab , Kubernetes , Docker , ArgoCD , Github Actions , Helm}💻
