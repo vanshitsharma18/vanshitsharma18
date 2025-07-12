@@ -1,6 +1,8 @@
 # 👋 Hi there, I'm Vanshit Sharma!!
-## 🚀 About Me
-Hi! I’m Vanshit Sharma, a curious and motivated developer with a strong interest in DevOps, Cloud Computing, and Automation. I thrive on learning new tools and building practical projects that bridge frontend experiences with powerful cloud backends.
+
+## 🚀 About Me:
+
+Motivated DevOps Engineer at the beginning of my career, with hands-on experience in version control using Git and GitHub, scripting in Python, and managing Linux-based systems. Familiar with CI/CD practices using Jenkins to automate builds and deployments. Passionate about cloud technologies, infrastructure automation, and improving software delivery processes. Always eager to learn new tools, enhance system reliability, and contribute to a collaborative DevOps culture.
 
 My recent projects include:
 
