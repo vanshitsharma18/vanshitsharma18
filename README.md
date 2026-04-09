@@ -1,34 +1,87 @@
-# 👋 Hi there, I'm Vanshit Sharma!!
+# 👋 Hi, I'm Vanshit Sharma
 
-## 🚀 About Me:
+🚀 Aspiring DevOps Engineer | Kubernetes | CI/CD | Cloud-Native Systems  
 
-Motivated DevOps Engineer at the beginning of my career, with hands-on experience in version control using Git and GitHub, scripting in Python, and managing Linux-based systems. Familiar with CI/CD practices using Jenkins to automate builds and deployments. Passionate about cloud technologies, infrastructure automation, and improving software delivery processes. Always eager to learn new tools, enhance system reliability, and contribute to a collaborative DevOps culture.
+---
 
-My recent projects include:
+## 💡 About Me
+- 🔧 Hands-on experience with **CI/CD pipelines, Kubernetes orchestration, and GitOps workflows**
+- ☁️ Built scalable systems using **AWS (Lambda, API Gateway, SNS, DynamoDB)**
+- 📊 Focused on **observability and system reliability (Prometheus, Grafana)**
+- ⚙️ Experience with **ServiceNow automation and enterprise workflows**
+- 🚀 Passionate about building **scalable, automated, and production-ready systems**
 
-📡 Message Broadcasting Web App using AWS Lambda, API Gateway, SNS, and DynamoDB, hosted on S3 — enabling real-time subscriber notifications.
+---
 
-📦 Dockerized Portfolio Deployment using GitHub, Docker Hub, Kubernetes, and GitLab CI/CD.
+## 🛠 Tech Stack
 
-🌐 Frontend applications built with HTML, CSS, JavaScript, integrated with cloud services.
-## 🛠 Skills
-- **Languages:** [HTML, CSS, JavaScript, Python]
-- **Tools:** {Git, Gitlab , Kubernetes , Docker , ArgoCD , Github Actions , Helm}💻
-## 🔭 Current Projects
-- [Project1]: Portfolio Website: A responsive personal website built with HTML, CSS, and JavaScript.
-- [Project 2]: Notification System: Real-Time Message Broadcasting System Using AWS Cloud Services
-- [Project 3]: Chatbot: A Python based Chatbot with Gemini Api Integration.
-- [Project 4]: Voting App: Deployment of Voting App using Docker and Kubernetes.
-- [Project 5]: Todo-App Devops Deployment: A comprehensive full-stack todo application demonstrating modern DevOps practices with complete CI/CD pipeline, containerization,                 and Kubernetes orchestration.
-## 🏆📜Certificates
-- From Companies: @AWS community builders, @Linkedin , @Alibaba Cloud.
+**Languages:**  
+C/C++, JavaScript, Python  
+
+**DevOps & Cloud:**  
+AWS | Docker | Kubernetes | Helm | GitHub Actions | Argo CD | CI/CD  
+
+**Observability:**  
+Prometheus | Grafana  
+
+**Tools:**  
+Git | Linux | VS Code  
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 GitOps Kubernetes Deployment
+Automated CI/CD pipeline using GitHub Actions and Argo CD with monitoring stack  
+- Reduced manual deployment effort  
+- Ensured consistent, version-controlled deployments  
+👉 https://github.com/vanshitsharma18/todo-app-deployment  
+
+---
+
+### 🔹 Serverless Notification System (AWS)
+Event-driven notification system using AWS services  
+- Scalable architecture using Lambda, SNS, API Gateway  
+- High-throughput message delivery with SNS fan-out  
+👉 https://github.com/vanshitsharma18/serverless-notification-system  
+
+---
+
+### 🔹 3-Tier Application on Kubernetes
+Containerized full-stack application deployed using Kubernetes  
+- Solved environment inconsistency using Docker  
+- Enabled scalable multi-tier architecture  
+👉 https://github.com/vanshitsharma18/full-web  
+
+---
+
+## 🔭 Current Work
+- Enhancing CI/CD pipelines and deployment automation  
+- Exploring advanced Kubernetes and cloud-native patterns  
+- Building production-ready DevOps projects  
+
+---
+
+## 🏆 Certifications
+- AWS Cloud Essentials  
+- Career Essentials – Microsoft & LinkedIn  
+- Alibaba Cloud Certified Developer  
+
+---
 
 ## 🎓 Education
-- Currently Pursuing B.tech in Field of Computer Science and Engineering from Manav Rachna International Institute of Research and Studies (2023-2027)
+B.Tech in Computer Science Engineering  
+Manav Rachna International Institute of Research and Studies (2023–2027)
 
-## 📫 How to reach me 
-- LinkedIn: [Vanshit Sharma](https://www.linkedin.com/in/vanshit-sharma/)
-- Email: [Email address](vanshitsharma2006@gmail.com)
+---
 
-### 📊 GitHub Stats
+## 📫 Connect with Me
+- 🔗 LinkedIn: https://www.linkedin.com/in/vanshit-sharma/
+- 📧 Email: vanshitsharma2006@gmail.com
 
+---
+
+## 📊 GitHub Stats
+![Vanshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshitsharma18&show_icons=true)
+
+----
