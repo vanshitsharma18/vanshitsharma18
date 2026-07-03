@@ -630,15 +630,11 @@ graph LR
 
 <!-- Stats + Streak side by side -->
 <p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vanshitsharma18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=A78BFA&text_color=C9D1D9&ring_color=00D4FF" alt="GitHub Stats"/>
   &nbsp;
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshitsharma18&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=A78BFA&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak"/>
 </p>
 
 <!-- Top Languages -->
-<p>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshitsharma18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" alt="Top Languages"/>
-</p>
 
 <!-- Activity Graph -->
 <p>
@@ -646,9 +642,6 @@ graph LR
 </p>
 
 <!-- Trophies -->
-<p>
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=vanshitsharma18&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
-</p>
 
 </div>
 
