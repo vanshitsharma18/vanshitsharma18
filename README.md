@@ -345,7 +345,7 @@ spec:
 <br/>
 
 <p>
-  <a href="https://github.com/vanshitsharma18"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>&nbsp;
+  <a href="https://github.com/vanshitsharma18/infra-repo"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Status-Production_Ready-00C853?style=for-the-badge" alt="Status"/>
 </p>
 
@@ -378,7 +378,7 @@ spec:
 <br/>
 
 <p>
-  <a href="https://github.com/vanshitsharma18"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>&nbsp;
+  <a href="https://github.com/vanshitsharma18/GitOps-app-deployment"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Status-Production_Ready-00C853?style=for-the-badge" alt="Status"/>
 </p>
 
@@ -411,7 +411,7 @@ spec:
 <br/>
 
 <p>
-  <a href="https://github.com/vanshitsharma18"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>&nbsp;
+  <a href="https://github.com/vanshitsharma18/serverless-notification-system"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Status-Production_Ready-00C853?style=for-the-badge" alt="Status"/>&nbsp;
   <img src="https://img.shields.io/badge/Published-Com--IT_CON_2025-A78BFA?style=for-the-badge" alt="Published"/>
 </p>
